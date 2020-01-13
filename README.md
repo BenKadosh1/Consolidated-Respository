@@ -1,2 +1,2 @@
 # Consolidated-Respository
-Consolidated repository of my academic work and projects
+Hi there, and welcome to my github page!
