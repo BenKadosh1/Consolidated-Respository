@@ -8,12 +8,14 @@ The specifications are simple: We need a way to search for relevant images given
 Here are some details:
 
 During training, you have a dataset of 10,000 samples. Each sample has the following data available for learning:  
+
 A 224x224 JPG image.  
 A list of tags indicating objects appeared in the image.     
 Feature vectors extracted using ResNet, a state-of-the-art Deep-learned CNN (You don't have to train or run ResNet -- we are providing the features for you). See here for the illustration of the ResNet-101 architecture. The features are extracted from pool5 and fc1000 layer.  
 A five-sentence description, used to train your search engine.  
 
 During testing, your system matches a single five-sentence description against a pool of 2,000 candidate samples from the test set. Each sample has:  
+
 A 224x224 JPEG image.   
 A list of tags for that image.  
 ResNet feature vectors for that image.  
