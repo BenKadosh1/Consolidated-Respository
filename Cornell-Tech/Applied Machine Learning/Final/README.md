@@ -1,4 +1,4 @@
-Assignment Prompt 
+Assignment Prompt:   
 
 The Challenge: Build a large-scale image search engine!
 You and your team of two Cornell Tech students are surely on the path to fame and fortune! You have been recruited by Google to disrupt Google Image Search by building a better search engine using novel statistical learning techniques.
