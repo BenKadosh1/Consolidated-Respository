@@ -17,3 +17,4 @@ Below are the links to each of the labs for the course, as well as a link to our
 5. [Lab 5](https://github.com/BenKadosh1/IDD-Fa19-Lab5/blob/master/README.md)
 6. [Lab 6](https://github.com/BenKadosh1/IDD-Fa19-Lab6)
 7. [Lab 7](https://github.com/BenKadosh1/IDD-Fa19-Lab7/blob/master/README.md)
+8. [Parky Final Project](https://github.com/jwalker34/Interactive-Lab-Hub/blob/master/Parky/README.md)
