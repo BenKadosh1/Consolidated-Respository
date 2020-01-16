@@ -1,5 +1,9 @@
 Welcome to my Developing and Designing Interactive Devices page. The course is more informally known as Interactive Device Design or IDD for short.  
 
+The link to the course site can be accessed here:  
+https://github.com/FAR-Lab/Developing-and-Designing-Interactive-Devices  
+
+
 Below are the links to each of the labs for the course, as well as a link to our **final project Parky**.
 
 
